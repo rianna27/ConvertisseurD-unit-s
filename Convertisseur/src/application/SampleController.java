@@ -15,7 +15,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.control.Alert.AlertType;
 
 
-//déclarer les variables
+//déclarer les variables 
 
 public class SampleController implements Initializable{
 
